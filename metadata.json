@@ -1,0 +1,8 @@
+{
+  "name": "Smart HIRADC",
+  "description": "Aplikasi untuk merekam dan menganalisis identifikasi bahaya K3 (Keselamatan dan Kesehatan Kerja) menggunakan foto. Aplikasi ini mendeteksi lokasi, mengidentifikasi kondisi dan tindakan tidak aman, memberikan skor keamanan, dan memungkinkan analisis interaktif dengan Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
